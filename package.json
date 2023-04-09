@@ -8,7 +8,6 @@
     "start": "node index.js",
     "build": "react-scripts --openssl-legacy-provider build"
   },
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
